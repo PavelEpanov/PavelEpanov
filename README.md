@@ -1,16 +1,15 @@
-### Hi there 👋
+# My name is Poul
 
-<!--
-**PavelEpanov/PavelEpanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am start python developer
 
-Here are some ideas to get you started:
+- I learn base of python
+- I will learn Django 
+- I am from Russia and my Eng is bad. I will learn English
+- I have a good RoadMap. I know what I am doing
+- I want to make your life easier I want to make your life easier with programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My stack:
+><img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+><img src="https://img.icons8.com/color/48/000000/django.png"/>
+><img src="https://img.icons8.com/color/48/000000/html-filetype--v1.png"/>
+><img src="https://img.icons8.com/color/48/000000/css-filetype.png"/>
